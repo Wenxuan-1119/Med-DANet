@@ -1,8 +1,7 @@
 # Med-DANet（ECCV 2022）
 
 This repo is the official implementation for: 
-[TransBTS: Multimodal Brain Tumor Segmentation Using Transformer](https://arxiv.org/pdf/2103.04430.pdf). 
-
+[Med-DANet: Dynamic Architecture Network for Efficient Medical Volumetric Segmentation](https://arxiv.org/pdf/2206.06575.pdf). 
 
 ## Requirements
 - python 3.7
