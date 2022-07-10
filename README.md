@@ -1,4 +1,4 @@
-# Med-DANet（ECCV 2022）
+# Med-DANet（ECCV 2022）------To be updated
 
 This repo is the official implementation for: 
 [Med-DANet: Dynamic Architecture Network for Efficient Medical Volumetric Segmentation](https://arxiv.org/abs/2206.06575). 
