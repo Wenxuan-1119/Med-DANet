@@ -18,7 +18,6 @@ This repo is the official implementation for:
 ## Citation
 If you use our code or models in your work or find it is helpful, please cite the corresponding paper:
 
-- **TransBTS**:
 ```
 @article{wang2022med,
   title={Med-DANet: Dynamic Architecture Network for Efficient Medical Volumetric Segmentation},
